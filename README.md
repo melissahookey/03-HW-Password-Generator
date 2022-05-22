@@ -1,3 +1,31 @@
 # 03-HW-Password-Generator
+ ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+ ![badge](https://img.shields.io/github/languages/count/AJLosey/trivia-database)
 
-- credit to Danny, Tim and Rodin for sharing tips and helpful information
+   ## Table of Contents
+  1. [Description](#description)
+  2. [Requirements](#requirements)
+  3. [Screenshots](#screenshots)
+
+  ## Description
+  A password generator application that will randomly generate a secure and complex password
+
+  ## Requirements
+  GIVEN I need a new, secure password
+  WHEN I click the button to generate a password
+  THEN I am presented with a series of prompts for password criteria
+  WHEN prompted for password criteria
+  THEN I select which criteria to include in the password
+  WHEN prompted for the length of the password
+  THEN I choose a length of at least 8 characters and no more than 128 characters
+  WHEN asked for character types to include in the password
+  THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
+  WHEN I answer each prompt
+  THEN my input should be validated and at least one character type should be selected
+  WHEN all prompts are answered
+  THEN a password is generated that matches the selected criteria
+  WHEN the password is generated
+  THEN the password is either displayed in an alert or written to the page 
+
+  ## Screenshots
+  ![screenshot](./img.png) 
