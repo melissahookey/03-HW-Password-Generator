@@ -28,4 +28,4 @@
   THEN the password is either displayed in an alert or written to the page 
 
   ## Screenshots
-  ![screenshot](./img.png) 
+  ![screenshot](./assets/images/hw3.png) 
